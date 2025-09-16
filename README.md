@@ -4,6 +4,7 @@
 
 ## Weekly progress
 - Week1: Setting up the environment, installing libraries and writing basic code
+- Week2: Learn Python, Pandas, Numpy, Mathplotlib
 
 ## Tool
 - Python ( Jupyter Notebook )
