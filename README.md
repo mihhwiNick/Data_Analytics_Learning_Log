@@ -8,6 +8,7 @@
 - Week3: EDA và Data Visualization about Dataset "Pima_Diabetes_Indian"
 - Week4: EDA và Data Visualization about Dataset "Quality_Wine_Red"
 - Week5+6: EDA và Data Visualization about Dataset "FEC"
+- Week7: Do exercise DA04 + DA05 on Classroom
 
 ## Tool
 - Python ( Jupyter Notebook )
