@@ -9,6 +9,6 @@
 - Week4: EDA và Data Visualization about Dataset "Quality_Wine_Red"
 - Week5+6: EDA và Data Visualization about Dataset "FEC"
 - Week7: Do exercise DA04 + DA05 on Classroom
+- Week8: Do excercise DA06 on Classroom
+- Week9+10: Do exercise DA07 on Classroom
 
-## Tool
-- Python ( Jupyter Notebook )
