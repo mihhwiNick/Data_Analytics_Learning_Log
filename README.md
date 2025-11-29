@@ -13,4 +13,5 @@
 - Week9+10: Do exercise DA07 on Classroom.
 - Week11: Building a Financial Dashboard for VN-Index 30 Data.
 - Week12: Do excercise DA08 on Classroom.
+- Week13: Do excercise DA09 on Classroom.
 
